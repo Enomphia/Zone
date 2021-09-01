@@ -1,6 +1,4 @@
 # Zone
-Zone module kinda like ZonePlus but less features, but this one uses the new Roblox workspace apis.
-
 How it works.
 
 1. Put the src.lua in a module script and place is somewhere your script can access it. (I will do ReplicatedStorage for this example.)
